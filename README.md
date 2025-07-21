@@ -3,7 +3,7 @@
 A professional, responsive, and visually rich developer portfolio showcasing my work in **web development**, **machine learning**, and **app development**, **Artificial Intelligence** — built with modern technologies and a space-themed aesthetic.
 
 ##  Live Demo
- [Visit Website](https://ayush-portfolio-rose.vercel.app/)
+ [Visit Website](https://ayush-portfolio-lemon.vercel.app/)
 
 ##  Features
 
